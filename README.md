@@ -4,6 +4,8 @@
 
 Our paper has been successfully accepted by MultiMedia Systems(MS). [Paper LinK](https://link.springer.com/article/10.1007/s00530-025-01870-x)
 
+![Method Overview](images\1.jpg)
+
 ## Abstract
 
 Point cloud upsampling aims to generate a dense and uniform point cloud from a sparse input, supporting various downstream tasks such as surface reconstruction and semantic segmentation. Current point cloud upsampling approaches mainly rely on ground truth complete point clouds as supervision, which are rarely available in real-world situations. Moreover, they are subject to fixed upsampling scale, thus are inconvenient to produce dense point clouds with desired resolution. To address these issues, we propose an arbitrary-scale point cloud upsampling method without supervision. Firstly, we employ a densitysensitive interpolation strategy designed to restore the sparse input point cloud into a dense point cloud of arbitrary scale. Then we derive the neural gradient function from the input point cloud to optimize the locations of surface points, thereby reducing noise and outliers. Experimental results demonstrate that our method not only achieves better visual results with fewer parameters but also exhibits competitive performance on the PU-GAN and PU1K datasets.
@@ -15,17 +17,17 @@ Point cloud upsampling aims to generate a dense and uniform point cloud from a s
 
 ## Performance
 
-![](C:\Users\Tao\Desktop\2.jpg)
+![](images\2.jpg)
 
-![](C:\Users\Tao\Desktop\3.jpg)
+![](images\3.jpg)
 
-![](C:\Users\Tao\Desktop\4.jpg)
+![](images\4.jpg)
 
-![](C:\Users\Tao\Desktop\5.jpg)
+![](images\5.jpg)
 
-![](C:\Users\Tao\Desktop\6.jpg)
+![](images\6.jpg)
 
-![](C:\Users\Tao\Desktop\7.jpg)
+![](images\7.jpg)
 
 ## Train
 
