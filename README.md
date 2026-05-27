@@ -4,7 +4,7 @@
 
 Our paper has been successfully accepted by MultiMedia Systems(MS). [Paper LinK](https://link.springer.com/article/10.1007/s00530-025-01870-x)
 
-![Method Overview](images\1.jpg)
+![Method Overview](\images\1.jpg)
 
 ## Abstract
 
@@ -17,17 +17,17 @@ Point cloud upsampling aims to generate a dense and uniform point cloud from a s
 
 ## Performance
 
-![](images\2.jpg)
+![](\images\2.jpg)
 
-![](images\3.jpg)
+![](\images\3.jpg)
 
-![](images\4.jpg)
+![](\images\4.jpg)
 
-![](images\5.jpg)
+![](\images\5.jpg)
 
-![](images\6.jpg)
+![](\images\6.jpg)
 
-![](images\7.jpg)
+![](\images\7.jpg)
 
 ## Train
 
